@@ -1,2 +1,2 @@
-# GeekTweets-d-mo
+# GeekTweets-demo
 AWS Project: Twitter Clone 
